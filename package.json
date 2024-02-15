@@ -1,0 +1,11 @@
+{
+  "name": "strawberry.js",
+  "version": "1.0.0",
+  "description": "a roblox api client for easy and simple use",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "eggs-florentine",
+  "license": "ISC"
+}
